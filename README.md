@@ -12,6 +12,6 @@ allprojects {
 - Step 2. Add the dependency
 ```
 dependencies {
-	implementation 'com.github.evan022:CreatorSDK:v1.0.4.2'
+	implementation 'com.github.evan022:CreatorSDK:1.0.4.2'
 }
 ```
