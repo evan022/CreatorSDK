@@ -1,0 +1,40 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nibiru.creator">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application>
+        <activity
+            android:name=".activity.CreatorPlayerActivity"
+            android:screenOrientation="landscape" />
+
+        <activity
+            android:name=".activity.TextActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/DialogTheme" />
+
+        <activity
+            android:name=".activity.ImageActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/DialogTheme" />
+
+        <activity
+            android:name=".activity.ImageListActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/DialogTheme" />
+
+        <activity
+            android:name=".activity.VideoActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/DialogTheme" />
+
+        <activity
+            android:name=".activity.SelectorActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/DialogTheme" />
+
+        <activity
+            android:name=".activity.ImageTextActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/DialogTheme" />
+    </application>
+</manifest>

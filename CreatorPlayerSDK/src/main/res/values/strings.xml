@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CreatorPlayerSDK</string>
+    <string name="loading">正在努力加载中&#8230;</string>
+    <string name="buffering">缓冲中&#8230;</string>
+    <string name="tip_no_resource">该热点无资源</string>
+    <string name="load_failed">加载失败</string>
+    <string name="first_page">已经是第一页</string>
+    <string name="last_page">已经是最后一页</string>
+    <string name="tip">正在打开项目&#8230;</string>
+    <string name="switch_tip">正在切换进入，请稍后&#8230;</string>
+</resources>
